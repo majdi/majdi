@@ -7,12 +7,9 @@
 Yo, I am [Majdi](https://majdi.im), an enthusiast life hacker by day ☼ and a food lover by night ☾<br />
 I'm passionate about **code** and mostly work on projects written in **Go**, **Deno** or **Python**.<br />
 
-I'm an [Indie Hacker](https://indiepa.ge/majdi) and create [confiture.ai](https://confiture.ai) to push ideas that come in my minds and write [stories](https://substack.com/@majditoumi).<br />
+I'm a [maker](https://indiepa.ge/majdi) and create [confiture.ai](https://confiture.ai) to push ideas that come in my minds + write [stories](https://substack.com/@majditoumi) about topics that matters... or not.<br />
 
-Previously, I worked 10 years at [mhirba](https://mhirba.com) a craft studio that I've founed to help startups, schools and associations.<br />
-I was also Head of Tech+Data – Ai Engineering Manager at [bodyguard.ai](https://bodyguard.ai) fighting online toxicity.
-
-I occasionally share [stories](https://www.instagram.com/majditoumi/) about topics that matters... or not.<br />
+Previously, at 24, I was Head of Studies of a computer school. Then, I discovered tech ecosystem and ~~failed~~ learned a lot from creating a startup focused on iconography. Later, I founded [mhirba](https://mhirba.com), a craft studio where I spent 8 fun years helping startups, schools, and associations. Finally, I was Head of Tech / Ai Engineering Manager at [bodyguard](https://bodyguard.ai) fighting online toxicity.
 
 <a href="https://www.linkedin.com/in/majditoumi/">
     <img alt="linkedin" title="linkedin" height="28" width="34" src=".assets/linkedin.svg" />
