@@ -9,7 +9,11 @@ I'm passionate about **code** and mostly work on projects written in **Go**, **D
 
 I'm a [maker](https://indiepa.ge/majdi) and create [confiture.ai](https://confiture.ai) to push ideas that come in my minds + write [stories](https://substack.com/@majditoumi) about topics that matters... or not.<br />
 
-Previously, at 24, I was Head of Studies of a computer school. Then, I discovered tech ecosystem and ~~failed~~ learned a lot from creating a startup focused on iconography. Later, I founded [mhirba](https://mhirba.com), a craft studio where I spent 8 fun years helping startups, schools, and associations. Finally, I was Head of Tech / Ai Engineering Manager at [bodyguard](https://bodyguard.ai) fighting online toxicity.
+Previously – my journey started at 24 as Head of Studies of a computer school.<br />
+Then, I discovered tech ecosystem and ~~failed~~ learned a lot from creating a startup focused on iconography.<br />
+Later, I founded [mhirba](https://mhirba.com), a craft studio where I spent 8 fun years helping startups, schools, and associations.<br />
+
+Finally, I was Head of Tech / Ai Engineering Manager at [bodyguard](https://bodyguard.ai) fighting online toxicity.
 
 <a href="https://www.linkedin.com/in/majditoumi/">
     <img alt="linkedin" title="linkedin" height="28" width="34" src=".assets/linkedin.svg" />
