@@ -11,7 +11,7 @@ My journey started at 24 as Head of Studies of a computer school.<br />
 Then, I discovered tech ecosystem and ~~failed~~ learned a lot from creating a startup focused on iconography.<br />
 Later, I founded mhirba, a craft studio where I spent couple of years helping startups, schools, and associations.<br />
 
-At the end, my only employee exeprience was as Head of Tech / Ai Engineering Manager at bodyguard.ai fighting online toxicity.
+At the end, my only experience as an employee was as Head of Tech / Ai Engineering Manager at bodyguard.ai fighting online toxicity.
 
 Today, In define myself as a maker @ [confiture.ai](https://confiture.ai) to push ideas that come in my minds + write [stories](https://confiture.substack.com/) about topics that matters... or not.<br />
 
